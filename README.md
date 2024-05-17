@@ -20,7 +20,7 @@ timeline
 ```mermaid
 timeline
         Semana de primavera : Produto no backlog
-                            : Espirito da agua `rgb(9, 105, 218)`
+                            : Espirito da agua `rgb(R,G,B)` `rgb(9, 105, 218)`
                             : Espirito azul
         Semana de inverno   : Espirito mundano
         Semana de verão     : Atividade corriqueira
