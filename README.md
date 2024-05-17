@@ -1,2 +1,2 @@
 # repoposs
-Repositório da disciplina de Introdução de DevOps
+Repositório da disciplina de Introdução de Devops
