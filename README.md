@@ -16,3 +16,13 @@ timeline
              : Demo
              : Sprint Review
 ```
+
+```mermaid
+timeline
+        Semana de primavera : Produto no backlog
+                            : Espirito da agua
+                            : Espirito azul
+        Semana de inverno   : Espirito mundano
+        Semana de verão     : Atividade corriqueira
+        Semana do galo      : Atividade padrão
+``
